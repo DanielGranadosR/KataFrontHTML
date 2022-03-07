@@ -1,0 +1,108 @@
+body{
+
+    background: url( "https://wallpapercave.com/wp/2wLZUxS.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+h1{
+    text-align: center;
+    background-color: #DD52F9;
+    color: antiquewhite;
+    padding: 20px;
+}
+
+nav ul{
+    background-color: #5FD28D;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li{
+    display: inline-flex;
+}
+
+nav a{
+    text-decoration: dotted;
+    color: antiquewhite;
+    padding: 10px;
+    width: 150px;
+}
+
+nav li:hover{
+    background-color: #06869F;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 40%;
+    object-fit: cover;
+    
+}
+
+.welcome{
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.contenido2{
+    display: flex;
+    margin: 100px;
+}
+
+.artículo2{
+    width: 100%;   
+    
+
+}
+
+.lol{
+
+    width: 100%;
+    text-align: left;
+    margin-left: 450px;
+}
+
+.secciones2{
+
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+
+.secundario2{
+    width: 20%;
+    margin-top: -40px;
+    
+    
+}
+
+.artículo2 h2,dl{
+
+    text-align: center;
+    color: #F95252;
+    
+}
+
+footer{
+    width: 100%;
+    height: 200%;
+    background-color: #DD52F9;
+    color: white;
+    margin-top: 40px;
+}
+
+footer p{
+
+    text-align: center;
+    padding: 50px;
+}
